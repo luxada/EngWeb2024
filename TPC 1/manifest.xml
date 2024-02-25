@@ -14,12 +14,19 @@
         </uc>
     </meta>
     <resumo>
-        <p>Primeiro Parágrafo</p>
-        <p>Segundo Parágrafo</p>
-        <p>Terceiro Parágrafo com <url>link</url><texto>url embutido</texto></p>
+        <p> Neste trabalho, utilizou-se o material fornecido pelo docente, 
+        ficheiros XML com a informação de 60 ruas de Braga, fotos atuais (associadas a uma determinada vista) 
+        e fotos dos esquiços desenhados no séc. XVIII das mesmas ruas, para produzir um website onde se pode consultar 
+        e navegar nesta estrutura.
+
+        O site apresenta uma página principal com a lista de ruas ordenada alfabéticamente.
+
+        Clicando numa das ruas acede-se à página individual da rua onde se pode consultar toda a sua informação. 
+        Nesta página há também um link para regressar à página principal.</p>
     </resumo>
     <resultados>
-        <resultado> resultado 1 </resultado>
-        <resultado> resultado 2 </resultado>
+        <resultado> script.py </resultado>
+        <resultado> index.html </resultado>
+        <resultado> MapaRuas-materialBase/htmls </resultado>
     </resultados>
 </doc>
