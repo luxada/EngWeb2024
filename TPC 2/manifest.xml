@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC2</title>
+        <date>2024-02-25</date>
+        <author>
+            <id>a88220</id>
+            <nome>Xavier Mota</nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p> Criar uma página para cada cidade: c1.html, c2.html, ...
+        Página principal:
+        Lista alfabética de cidades. Cada cidade é um link da forma
+        Serviço em Node:
+        '/' ou '/html/index.html' -> Página Principal
+        '/html/cX.html' -> Página da Cidade cX
+        Página da Cidade:
+        Nome, ID, Distrito, População, Ligações</p>
+    </resumo>
+    <resultados>
+        <resultado> script.py </resultado>
+        <resultado> server.js </resultado>
+        <resultado> HTML Gerado - '/htmls' </resultado>
+    </resultados>
+</doc>
