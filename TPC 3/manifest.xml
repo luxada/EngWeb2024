@@ -1,0 +1,37 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC3</title>
+        <date>2024-03-04</date>
+        <author>
+            <id>A88220</id>
+            <nome>Xavier Santos Mota</nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p> Análise do dataset e criação de BD em json-server
+            Serviço que responde na porta (que quisermos) às seguintes rotas:
+            -GET /filmes - listagem de filmes (cada entrada é lida para a página de filmes)
+
+            /filmes/id_filme
+
+            /generos
+
+            /generos/id_genero
+
+            /atores
+
+            /atores/id_ator 
+        </p>
+    </resumo>
+    <resultados>
+        <resultado>final-filmes.json (json corrigido através do script em python 'script.py')</resultado>
+        <resultado>server.js - servidor</resultado>
+    </resultados>
+</doc>
