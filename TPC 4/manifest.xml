@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC4</title>
+        <date>2024-03-11</date>
+        <author>
+            <id>A88220</id>
+            <nome>Xavier Santos Mota</nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>  
+        
+        
+        </p>
+    </resumo>
+    <resultados>
+        <resultado>final-compositores.json (json corrigido através do script em python 'script.py')</resultado>
+        <resultado>server.js - servidor</resultado>
+    </resultados>
+</doc>
