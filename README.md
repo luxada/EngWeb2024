@@ -15,12 +15,12 @@ UC do 3º Ano de Engenharia Informática da Universidade do Minho
 ![Texto Alternativo](foto.png)
 
 - [X] TPC1
-- [ ] TPC2
-- [ ] TPC3
-- [ ] TPC4
+- [x] TPC2
+- [x] TPC3
+- [x] TPC4
 - [ ] TPC5
 - [ ] TPC6
 - [ ] TPC7
 - [ ] TPC8
   
-[ ]: # (Adicionar "X" dentro dos "[]")
+
