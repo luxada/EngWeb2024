@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= message
+  h2= error.status
+  pre #{error.stack}
+
+  footer.w3-container.w3-teal 
+    h5 TPC5::EngWeb2024::a88220::#{data}
